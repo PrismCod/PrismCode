@@ -1,0 +1,15 @@
+PRISM CODE — SITE 
+Esta versão usa somente HTML, CSS e JavaScript comum.
+Não é necessário instalar Node.js, executar npm install ou usar o terminal.
+
+ARQUIVOS
+- index.html: conteúdo e estrutura do site.
+- style.css: identidade visual, temas e responsividade.
+- script.js: tema claro/escuro, menu mobile e animações.
+- assets/: logos e símbolo oficial da Prism Code.
+
+PUBLICAÇÃO NO RENDER
+Envie todo o conteúdo desta pasta como um Static Site.
+Não há comando de build. O diretório de publicação é a própria raiz.
+
+Contato configurado: https://www.instagram.com/prism.cod/
